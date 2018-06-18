@@ -1,3 +1,3 @@
 # hello-world
 
-I like :coffee:
+I like :coffee: :pizza:
